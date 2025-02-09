@@ -1,7 +1,10 @@
-# I'm Riccardo Donati 🚀
+#  Hi 👋, I'm Riccardo!🚀
+[![GitHub Starts](https://img.shields.io/github/stars/riccardo-donati?label=github&color=181717&logo=github&style=for-the-badge)](https://github.com/riccardo-donati)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/riccardo-donati0/)
+
 I am a Research Assistant at Politecnico di Milano. 📖
 
-In my profile you can find a lot of projects done during the universitary years. 🛠️
+My profile showcases projects from my university years in AI and Software Engineering.. 🛠️
 
 I'm passionate about Machine Learning, Robotics and Computer Vision! 🤖
 
