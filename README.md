@@ -4,7 +4,7 @@
 
 I am a Research Assistant at Politecnico di Milano. 📖
 
-My profile showcases projects from my university years in AI and Software Engineering.. 🛠️
+My profile showcases projects from my university years in AI and Software Engineering. 🛠️
 
 I'm passionate about Machine Learning, Robotics and Computer Vision! 🤖
 
